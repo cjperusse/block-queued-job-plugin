@@ -10,7 +10,7 @@
     </parent>
 
     <artifactId>block-queued-job</artifactId>
-    <version>0.3.0</version>
+    <version>0.2.0-cloudiq</version>
     <packaging>hpi</packaging>
 
     <name>Block Queued Job Plugin</name>
